@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+metaprompt/__init__.py
+metaprompt/configure.py
+metaprompt/meta_prompting_template.py
+metaprompt.egg-info/PKG-INFO
+metaprompt.egg-info/SOURCES.txt
+metaprompt.egg-info/dependency_links.txt
+metaprompt.egg-info/top_level.txt

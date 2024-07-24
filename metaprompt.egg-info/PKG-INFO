@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: metaprompt
+Version: 1.0.0
+Summary: A library for creating and managing meta prompts for various applications
+Home-page: https://github.com/deepakgos/metaprompt
+Author: Deepak Puri Goswami & Ojas Somvanshi
+Author-email: deepak.puri@unifycloud.com
+License: MIT
+Keywords: meta prompts,prompt engineering,natural language processing
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Metaprompt
+
+Metaprompt is a Python library for creating and managing meta prompts for various applications. It provides a flexible and extensible framework to define prompts, manage expert roles, and ensure adherence to specific rules and guidelines.
+
+## Installation
+
+To install Metaprompt, use pip:
+
+```bash
+pip install metaprompt
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
