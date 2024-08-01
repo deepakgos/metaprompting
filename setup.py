@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='metaprompt',
-    version='1.0.0',
+    version='2.0.0',
     author='Deepak Puri Goswami & Ojas Somvanshi',
     author_email='deepak.puri@unifycloud.com',
     description='A library for creating and managing meta prompts for various applications',
